@@ -20,6 +20,8 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+
+        <meta-data android:name="yt" android:value="https://youtu.be/Kw4_i4l5y4s?t=419" />
     </application>
 
 </manifest>
